@@ -80,14 +80,14 @@
         "tooltip": "Select an icon to show in the panel.",
         "dependency": "menu-icon-custom",
         "indent": "true",
-        "value": "/usr/share/icons/Sardi/scalable/places/start-here-arcolinux.svg"
+        "value": "/usr/share/icons/Sardi/scalable/places/start-here-gzlx.svg"
     },
     "menu-label": {
         "type": "entry",
         "default": "Menu",
         "description": "Text",
         "tooltip": "Enter custom text to show in the panel.",
-        "value": "ArcoLinux  "
+        "value": "GZLx  "
     },
     "show-category-icons": {
         "type": "switch",
